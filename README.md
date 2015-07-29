@@ -21,3 +21,5 @@ Based on [post](http://blog.da2k.com.br/2015/01/06/pensando-tdd-com-javascript/)
 ##Run
 
 > mocha tests/sumTest.js
+
+Run mocha for tests and after good test!!
