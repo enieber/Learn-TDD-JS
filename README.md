@@ -13,10 +13,10 @@ Based on [post](http://blog.da2k.com.br/2015/01/06/pensando-tdd-com-javascript/)
 > sudo npm install -g mocha
 
 [Istanbul](https://github.com/gotwarlost/istanbul)
-> sudo npm insatll -g istanbul
+> sudo npm install -g istanbul
 
 [Should](https://github.com/shouldjs/should.js)
-> sudonpm install should --save-dev
+> sudo npm install should --save-dev
 
 ##Run
 
